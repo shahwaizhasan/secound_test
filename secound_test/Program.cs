@@ -10,7 +10,7 @@ namespace secound_test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("my name is shahwaiz');
+            Console.WriteLine("my name is shahwaiz hasan');
         }
     }
 }
